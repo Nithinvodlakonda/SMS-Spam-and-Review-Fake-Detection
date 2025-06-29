@@ -18,10 +18,6 @@ This project is built to enhance communication safety and review authenticity in
 - Classifies product/service reviews as **Human-written** or **Computer-generated**  
 - Uses NLP techniques and ML models like Logistic Regression / Naive Bayes
 
-✅ **Streamlit Web Interface**  
-- Simple, interactive user interface  
-- Instant predictions with friendly emoji-based feedback 🧠✨
-
 ---
 
 ## 🛠️ Technologies Used
